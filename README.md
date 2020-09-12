@@ -5,7 +5,7 @@
 ## Workout Tracker
 
 ## Live URL
-https://warm-hollows-28275.herokuapp.com/
+https://calm-forest-46821.herokuapp.com/
 
 ## Description
 To create a workout tracker. This app requires to create Mongo database with a Mongoose schema and handle routes with Express.
