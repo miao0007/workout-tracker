@@ -1,5 +1,6 @@
 const path = require("path");
 const express = require("express");
+const db =require("../models");
 
 module.exports = function(app) {
     // route to he index.html page
